@@ -3719,8 +3719,15 @@ libfrr.so.0 libfrr-6.0_1
 libkaccounts6.so.2 kf6-kaccounts-integration-24.02.0_1
 libfrrospfapiclient.so.0 libfrrospfapiclient-6.0_1
 liborocos-kdl.so.1.5 orocos-kdl-1.5.1_1
+libefa.so.1 rdma-core-22.1_1
+libhns.so.1 rdma-core-22.1_1
+libibmad.so.5 rdma-core-22.1_1
+libibnetdisc.so.5 rdma-core-22.1_1
 libibumad.so.3 rdma-core-22.1_1
 libibverbs.so.1 rdma-core-22.1_1
+libmana.so.1 rdma-core-22.1_1
+libmlx4.so.1 rdma-core-22.1_1
+libmlx5.so.1 rdma-core-22.1_1
 librdmacm.so.1 rdma-core-22.1_1
 libdvdcss.so.2 libdvdcss-1.4.2_1
 libvalapanel.so.0 vala-panel-0.4.87_1
@@ -4355,6 +4362,7 @@ libglibutil.so.1 libglibutil-1.0.64_1
 libgbinder.so.1 libgbinder-1.1.20_1
 libgxml-0.20.so.2.0.2 gxml-0.20.3_1
 libsunpinyin.so.3 libsunpinyin-3.0.0rc2_1
+libsmi.so.2 libsmi-0.5.0_1
 libtpm2-totp.so.0 libtpm2-totp-0.3.0_1
 libmujs.so.1.2.0 mujs-1.2.0_2
 libiir.so.1 libiir1-1.9.3_1
